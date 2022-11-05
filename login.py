@@ -10,7 +10,7 @@ def everything():
             messagebox.showinfo("", "Blank Not allowed")
 
 
-        elif(uname == "Prateek Aggrawal" and password == "123"):
+        elif(uname == "Admin" and password == "123"):
 
             messagebox.showinfo("","Login Success")
             top.destroy()
