@@ -1,2 +1,2 @@
 # python-tkinter-scientific-calculator
-Using tkinter and building amazing GUI interface for fully functional scientific calculator
+Using tkinter to build amazing GUI interface for fully functional scientific calculator
